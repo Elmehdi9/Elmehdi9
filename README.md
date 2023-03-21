@@ -7,8 +7,8 @@ I am an AI and data science bachelor program student. I am passionate about data
 
 | Media  | Summary |
 | ------------- | ------------- |
-| [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I share data science interview questions and practical machine learning tips|
-| [Resume ](https://yummy-marsupial-2d9.notion.site/Dahbi-El-Mehdi-c615c9c4f6e446c996d972a540b9245b)  |   education, work experience, skills, and achievements|
+| [LinkedIn ](https://www.linkedin.com/in/elmehdi-dahbi-b3ab711bb/)  | Nothing to share |
+| [Resume ](https://yummy-marsupial-2d9.notion.site/Dahbi-El-Mehdi-c615c9c4f6e446c996d972a540b9245b)  |   Education, work experience, skills, and achievements |
 
 
 </br>
