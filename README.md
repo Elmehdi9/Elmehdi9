@@ -1,7 +1,6 @@
 <h1 align="left">Hi, I'm El Mehdi Dahbi 👋</h1> 
 
-I am an AI and data science bachelor program student. I am passionate about data and its influence performance analysis and scouting in the football industry.
-
+I'm a junior data scientist, working primarily on computer vision and backend development projects.
 
 <h3 align="left">Links:</h3></br>
 
